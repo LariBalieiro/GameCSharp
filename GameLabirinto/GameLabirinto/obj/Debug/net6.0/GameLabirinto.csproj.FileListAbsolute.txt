@@ -1,0 +1,15 @@
+D:\GameLabirinto\GameLabirinto\bin\Debug\net6.0\GameLabirinto.exe
+D:\GameLabirinto\GameLabirinto\bin\Debug\net6.0\GameLabirinto.deps.json
+D:\GameLabirinto\GameLabirinto\bin\Debug\net6.0\GameLabirinto.runtimeconfig.json
+D:\GameLabirinto\GameLabirinto\bin\Debug\net6.0\GameLabirinto.dll
+D:\GameLabirinto\GameLabirinto\bin\Debug\net6.0\GameLabirinto.pdb
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.csproj.AssemblyReference.cache
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.AssemblyInfoInputs.cache
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.AssemblyInfo.cs
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.csproj.CoreCompileInputs.cache
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.dll
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\refint\GameLabirinto.dll
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.pdb
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\GameLabirinto.genruntimeconfig.cache
+D:\GameLabirinto\GameLabirinto\obj\Debug\net6.0\ref\GameLabirinto.dll
